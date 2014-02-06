@@ -16,4 +16,4 @@ greaterThan(QT_MAJOR_VERSION, 4) {
 target.path = $$[QT_INSTALL_PLUGINS]/designer
 INSTALLS    += target
 
-include(qknobwidget.pri)
+include(src/qknobwidget.pri)

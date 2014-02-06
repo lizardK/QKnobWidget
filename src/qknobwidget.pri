@@ -1,3 +1,3 @@
-HEADERS += qknobwidget.h
-SOURCES += qknobwidget.cpp
+HEADERS += $$PWD/qknobwidget.h
+SOURCES += $$PWD/qknobwidget.cpp
 INCLUDEPATH+=$$PWD
