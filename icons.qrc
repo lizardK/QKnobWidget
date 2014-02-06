@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>QKnobWidget.png</file>
+
+    </qresource>
+</RCC>
